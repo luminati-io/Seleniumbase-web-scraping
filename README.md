@@ -2,7 +2,7 @@
 
 [![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com)
 
-Simplify web scraping with SeleniumBase using its advanced features and step-by-step guide.
+Simplify web scraping with SeleniumBase using its advanced features and step-by-step guide. Interested in Selenium web scraping? Check out [this guide](https://brightdata.com/blog/how-tos/using-selenium-for-web-scraping).
 
 ## What Is SeleniumBase?
 
@@ -193,4 +193,4 @@ with SB(uc=True, test=True) as sb:
 
 ## Conclusion
 
-SeleniumBase offers advanced features for web scraping, including UC Mode and CDP Mode for bypassing anti-bot measures. For more robust solutions, consider using cloud-based browsers like Scraping Browser from Bright Data.
+SeleniumBase offers advanced features for web scraping, including UC Mode and CDP Mode for bypassing anti-bot measures. For more robust solutions, consider using cloud-based browsers like [Scraping Browser from Bright Data](https://brightdata.com/products/scraping-browser).

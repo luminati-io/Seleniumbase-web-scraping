@@ -192,4 +192,3 @@ with SB(uc=True, test=True) as sb:
 ## Conclusion
 
 SeleniumBase offers advanced features for web scraping, including UC Mode and CDP Mode for bypassing anti-bot measures. For more robust solutions, consider using cloud-based browsers like Scraping Browser from Bright Data.
-```

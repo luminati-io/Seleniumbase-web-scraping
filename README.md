@@ -1,4 +1,6 @@
-# Guide to Web Scraping With SeleniumBase in 2025
+# Web Scraping With SeleniumBase
+
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com)
 
 Simplify web scraping with SeleniumBase using its advanced features and step-by-step guide.
 
